@@ -1,0 +1,33 @@
+{
+  "name": "nci-github-pr-webhook",
+  "version": "0.0.1",
+  "description": "github pull request webhooks for nci",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fleg/nci-github-pr-webhook.git"
+  },
+  "keywords": [
+    "nciplugin",
+    "github",
+    "pull request",
+    "webhook",
+    "hook"
+  ],
+  "author": "Aleksey Timchenko <flegmatik.bel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fleg/nci-github-pr-webhook/issues"
+  },
+  "homepage": "https://github.com/fleg/nci-github-pr-webhook",
+  "peerDependencies": {
+    "nci": ">=1.0.1 <1.1.0",
+    "nci-express": ">=1.0.0"
+  },
+  "dependencies": {
+    "nci-base-webhook": "1.0.1"
+  }
+}

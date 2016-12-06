@@ -1,2 +1,7 @@
 # nci-github-pr-webhook
-github pull request webhooks for nci
+
+wip...
+
+## License
+
+[The MIT License](https://raw.githubusercontent.com/fleg/nci-github-webhook/master/LICENSE)
